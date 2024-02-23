@@ -39,6 +39,8 @@
 
 *M* ∈ *AB*:  A<sub>1</sub>M* || *BB<sub>1</sub>*
 
+![Дополнительное построение](./images/вариант2.svg "Дополнительное построение")
+
 По теореме Фалеса \frac{|*B<sub>1</sub>M*|}{|*MC*|} = \frac{|*BA<sub>1</sub>*|}{|*A<sub>1</sub>C*|} = \frac{1}{1}. Если |*BA<sub>1</sub>*| = x, то |*MC*| = x, а |*AB<sub>1</sub>*| = 2x
 
 По теореме Фалеса \frac{|*AO*|}{|*OA<sub>1</sub>*|} = \frac{|*AB<sub>1</sub>*|}{|*B<sub>1</sub>M*|} = \frac{2*x*}{*x*} = \frac{2}{1}
