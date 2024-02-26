@@ -86,7 +86,7 @@ $\frac{(\textit{a} + \textit{b})²}{2} = \frac{\textit{c}² + 2\textit{ab}}{2} \
 
 Предположим что это не так: $\angle C \neq$ 90°
 
-Тогда построим треугольник A₁B₁C₁ так, чтобы $\angle \textsl{C₁} = 90°, |\textsl{B₁C₁}| = \textsl{a}; |\textsl{A₁C₁}| = \textsl{b}. Тогда |\textsl{A₁C₁}| = \sqrt{\textsl{a}² + \textsl{b}²} = |\textsl{AC}|$
+Тогда построим треугольник A₁B₁C₁ так, чтобы $\angle {C₁} = 90°, |\textsl{B₁C₁}| = \textsl{a}; |\textsl{A₁C₁}| = \textsl{b}. Тогда |\textsl{A₁C₁}| = \sqrt{\textsl{a}² + \textsl{b}²} = |\textsl{AC}|$
 
 *△ABC* = *△A₁B₁C₁* по трем сторонам, но тогда $\angle $*C* = 90° - противоречие
 
